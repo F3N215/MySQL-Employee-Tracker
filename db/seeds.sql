@@ -1,14 +1,14 @@
 USE organization;
 INSERT INTO departments (name) 
 VALUES 
-    ('Engineering');
-    ('Sales');
-    ('Marketing');
-    ('Finance');
-    ('Human Resources');
+    ('Engineering'),
+    ('Sales'),
+    ('Marketing'),
+    ('Finance'),
+    ('Human Resources'),
     ('Legal');
 
-INSERT INTO positions (title, salary, department_id);
+INSERT INTO positions (title, salary, department_id)
 VALUES
     ("Software Engineer", 100000, 1),
     ("Senior Software Engineer", 120000, 1),
