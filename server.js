@@ -28,7 +28,7 @@ const startInquirer = () => {
       },
     ])
     .then((answers) => {
-      const nextPrompt = answers.toDo;
+      const nextPrompt = answers.action;
       if (nextPrompt === "View all departments") {
         viewDepartments();
       }
@@ -153,7 +153,7 @@ const addDepartment = () => {
       },
     ])
     .then((answer) => {
-      const sql = `INSERT INTO department (name) VALUES (?)`;
+      const sql = `INSERT INTO departments (name) VALUES (?)`;
       db.query(sql, answer.department, (err, result) => {
         if (err) {
           throw err;
@@ -198,7 +198,7 @@ const addRole = () => {
     ])
     .then((answer) => {
       const params = [answer.title, answer.salary];
-      const sql = `SELECT * FROM department`;
+      const sql = `SELECT * FROM departments`;
       db.query(sql, (err, rows) => {
         if (err) {
           throw err;
