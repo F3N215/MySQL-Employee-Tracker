@@ -1,3 +1,6 @@
+DROP database if exists organization;
+create database organization;
+
 USE organization;
 DROP TABLE IF EXISTS employees;
 DROP TABLE IF EXISTS departments;
