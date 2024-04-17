@@ -6,10 +6,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 #### _Links_
-* <a href="https://github.com/F3N215/OOP-SVG-Maker/blob/main/index.js">Public Folder</a>
-* <a href="https://github.com/F3N215/Express-Note-Taking-App/tree/main/routes">Routes Folder</a>
-* <a href="https://streamable.com/boe3an">Video Demo</a>
-* <a href="https://dans-note-taker-4d4521d7ba48.herokuapp.com/">Heroku Deployment Link</a>
+* <a href="https://github.com/F3N215/MySQL-Employee-Tracker/tree/main/lib">Department.js</a>
+* <a href="https://github.com/F3N215/MySQL-Employee-Tracker/blob/main/server.js">Server.js</a>
+* <a href="https://github.com/F3N215/MySQL-Employee-Tracker/tree/main/db">Database folder</a>
 
 -----
 ## Project Summary 📋
@@ -23,6 +22,7 @@
 * In my own research I have attempted several different solutions using online resources
 * Having addressed this issue over three separate tutoring sessions, the problem had been solved only for the same issue to keep presenting itself (MySQL does not consistently accept my password credentials)
 * Instructors and TAs have all examined this issue, and have not found solutions to this problem -- they have suggested that I highlight this in my submission
+* Note: the code itself functions properly when used on a separate machine, however, I am unable to demonstrate it locally and therefore cannot share a video walkthrough
 
 -----
 ## How to Install 📝  
