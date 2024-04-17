@@ -14,8 +14,15 @@
 -----
 ## Project Summary 📋
 * Build a command-line application from scratch to manage an employee database
-* Essentially: build a content management system using Node.js, Inquirer and MySql
+* Essentially: build a content management system using Node.js, Inquirer, and MySql
 * Use the npm 'Inquirer' package
+
+-----
+## Challenges Faced ⚔️  
+* I have faced numerous challenges with mySQL during this assignment. Through several attempts at reinstalling the app, it has worked and failed several times, which has halted development at different stages
+* In my own research I have attempted several different solutions using online resources
+* Having addressed this issue over three separate tutoring sessions, the problem had been solved only for the same issue to keep presenting itself (MySQL does not consistently accept my password credentials)
+* Instructors and TAs have all examined this issue, and have not found solutions to this problem -- they have suggested that I highlight this in my submission
 
 -----
 ## How to Install 📝  
