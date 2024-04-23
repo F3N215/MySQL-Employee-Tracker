@@ -9,6 +9,7 @@
 * <a href="https://github.com/F3N215/MySQL-Employee-Tracker/tree/main/lib">Department.js</a>
 * <a href="https://github.com/F3N215/MySQL-Employee-Tracker/blob/main/server.js">Server.js</a>
 * <a href="https://github.com/F3N215/MySQL-Employee-Tracker/tree/main/db">Database folder</a>
+* <a href="https://streamable.com/bade36">Video Demo</a>
 
 -----
 ## Project Summary 📋
